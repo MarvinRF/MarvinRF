@@ -32,3 +32,9 @@
   <a href="https://www.linkedin.com/in/marvin-rocha-b31145215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/MarvinRocha2" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
+
+<div align="center">
+  
+   ![Snake animation](https://github.com/MarvinRF/MarvinRF/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
