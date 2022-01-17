@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marvin Rocha! Futuro desenvolvedor Full-Stack JS Jr.
+## Olá! Eu sou o Marvin Rocha, futuro desenvolvedor Full-Stack JS Jr.
  
 - 📚 Graduando em Ciência da Computação no IFBA. Campus Valença.
 - 🔭 Hoje trabalho para o Instituto Brasileiro de Geografia e Estatistica IBGE.
@@ -6,8 +6,8 @@
 ##
 <div align="center">
   <a href="https://github.com/MarvinRF">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 </div>
