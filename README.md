@@ -4,7 +4,6 @@
 - 📚 Graduando em Ciência da Computação no IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia. Campus Valença
 - 🔭 Hoje trabalho para o Instituto Brasileiro de Geografia e Estatistica IBGE
 - 🌱 Estudando TypeScript
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/MarvinRF">
