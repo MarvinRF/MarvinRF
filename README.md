@@ -4,12 +4,12 @@
 - 🔭 Hoje trabalho para o Instituto Brasileiro de Geografia e Estatistica IBGE.
 - 🌱 Estudando para me tornar um desenvolvedor Full-Stack especialista em BackEnd.
 ##
+
 <div align="center">
   <a href="https://github.com/MarvinRF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
