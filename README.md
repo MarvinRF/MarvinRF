@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marvin Rocha!
 
 
-- 📚 Graduando em Ciência da Computação no IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia. Campus Valença
+- 📚 Graduando em Ciência da Computação no IFBA. Campus Valença
 - 🔭 Hoje trabalho para o Instituto Brasileiro de Geografia e Estatistica IBGE
 - 🌱 Estudando TypeScript
 
