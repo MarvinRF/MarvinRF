@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marvin Rocha, futuro desenvolvedor Full-Stack JS Jr.
+## Olá! Eu sou o Marvin Rocha, futuro desenvolvedor JS.
  
 - 📚 Graduando em Ciência da Computação no IFBA. Campus Valença.
 - 🔭 Hoje trabalho para o Instituto Brasileiro de Geografia e Estatistica IBGE.
