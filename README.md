@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marvin Rocha.
  
 - 📚 Graduando em Ciência da Computação no IFBA. Campus Valença.
-- 🔭 Hoje trabalho para o Instituto Brasileiro de Geografia e Estatistica IBGE.
+- 🔭 Hoje trabalho como Coordenador de sistema da informação na secretaria de educação do município de Valença-Ba.
 - 🌱 Estudando para me tornar um desenvolvedor Full-Stack.
 ##
 
