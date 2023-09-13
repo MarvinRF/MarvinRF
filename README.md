@@ -9,28 +9,6 @@
 - 💻 Também atuo como desenvolvedor Front-End Jr.
 - 🌱 Estudo para me tornar Full-Stack.
 ##
-
-
-<div align="center">
-  <a href="https://github.com/MarvinRF">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
- 
- 
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg")">
- <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg")">
-  <img align="right" alt="" height="150" style="border-radius:50px;">
-</div>
-  
- 
-##
   
  
 <div align="center"> 
