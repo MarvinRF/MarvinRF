@@ -32,8 +32,8 @@
 
 <div align="center">
   <a href="https://github.com/MarvinRF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=prussian"/>
 </div>
  
 <!--<div align="center">![Snake animation](https://github.com/MarvinRF/MarvinRF/blob/output/github-contribution-grid-snake.svg)</div> -->
