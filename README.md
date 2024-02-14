@@ -4,23 +4,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=549FF3&size=25&center=true&vCenter=true&width=1000&lines=Hello+People!+I+am+Marvin+Rocha!;Front+-+End+Software+Engineer;I+turn+visual+concepts+into+functional+code+:%29)](https://git.io/typing-svg)
 
  
-- 📚 Graduando em Ciência da Computação no IFBA. Campus Valença.
+- 📚 Graduando em Computação no IFBA. Campus Valença.
 - 🔭 Hoje trabalho como Coordenador de sistema de educação na secretaria de educação do município de Valença-Ba.
-- 💻 Também atuo como desenvolvedor Front-End Jr.
+- 💻 Também atuo como desenvolvedor Front-End.
 - 🌱 Estudo para me tornar Full-Stack.
 ##
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg")">
- <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg")">
-  <img align="right" alt="" height="150" style="border-radius:50px;">
+ <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />       
+ <img align="right" alt="" height="150" style="border-radius:50px;">
 </div>
-  ##
+
+ ##
  
 <div align="center"> 
   <a href="https://instagram.com/rochamarvin_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
