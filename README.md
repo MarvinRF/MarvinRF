@@ -2,15 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=593d88&size=25&center=true&vCenter=true&width=1000&lines=Hello+Guys!+My+name+is+Marvin+Rocha!;Front+-+End+Software+Engineer;I+turn+visual+concepts+into+functional+code+:%29)](https://git.io/typing-svg)
 
-PT-BR
-- 📚 Atualmente estou cursando Licenciatura em Computação no IFBA Campus Valença.
-- 🔭 Sou Coordenador de TI na SEDUC do município de Valença-Ba.
-- 👩🏻‍💻 Tenho uma vasta experiência em JAVA com Spring.
-- 👨‍🏫 Como Professor do SENAI, leciono o curso de Desenvolvimento Web em Valença-Ba.
-- 💻 Também trabalho como desenvolvedor Front-End.
-- 🌱 Estou me dedicando aos estudos para me tornar um desenvolvedor Full-Stack.
-
-EN
 - 📚 Currently pursuing a Bachelor's degree in Computer Science Education at IFBA Valença Campus.
 - 🔭 I serve as the IT Coordinator at SEDUC in the municipality of Valença-Ba.
 - 👩🏻‍💻 I possess extensive experience in JAVA with Spring.
