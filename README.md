@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=593d88&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=593d88&size=25&center=true&vCenter=true&width=1000&lines=Hello+People!+I+am+Marvin+Rocha!;Front+-+End+Software+Engineer;I+turn+visual+concepts+into+functional+code+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=593d88&size=25&center=true&vCenter=true&width=1000&lines=Hello+Guys!+My+name+is+Marvin+Rocha!;Front+-+End+Software+Engineer;I+turn+visual+concepts+into+functional+code+:%29)](https://git.io/typing-svg)
 
 PT-BR
 - 📚 Atualmente estou cursando Licenciatura em Computação no IFBA Campus Valença.
@@ -27,8 +27,8 @@ EN
  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
- <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"/>
- <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>  
+ <img align="center" alt="StyledC" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"/>
+ <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>  
 </div>
 
  ##
@@ -48,8 +48,6 @@ EN
 </div>
 
   ##
-<!--<div align="center">![Snake animation](https://github.com/MarvinRF/MarvinRF/blob/output/github-contribution-grid-snake.svg)</div> -->
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarvinRF&bg_color=0d1117&color=593d88&line=4400B8&point=650AFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
