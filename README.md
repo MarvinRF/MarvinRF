@@ -2,17 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c6ff00&size=25&center=true&vCenter=true&width=1000&lines=Hello+Guys!+My+name+is+Marvin+Rocha!;Front+-+End+Software+Engineer;I+turn+visual+concepts+into+functional+code+:%29)](https://git.io/typing-svg)
 
-- 🎓 B.Sc. in Computing Education (IFBA - Completed)
-- 🎓 Pursuing B.Sc. in Computer Science (Faculdade Única)
-- 💻 Front-End Developer at WRM Tecnologia
-- ⚙️ Experience with SSR/SSG using Next.js 15
-- 🧠 Focus on performance, accessibility, and code architecture
-- 🧑‍🏫 Former Web Dev Instructor at SENAI Bahia
-- 🏛️ Former IT Coordinator at SEDUC - Valença/BA
-- 🚀 Evolving into a Full-Stack Developer
-- 🧩 Proficient in NestJS, Prisma, PostgreSQL, Redis, MongoDB
-- 🧪 Strong with Type Safety, Testing, and CI/CD pipelines
-- 🌐 Fluent in English and Portuguese
+🎓 B.Sc. in Computing Education (IFBA - Completed)
+🎓 Pursuing B.Sc. in Computer Science (Faculdade Única)
+💻 Front-End Developer at WRM Tecnologia
+⚙️ Experience with SSR/SSG using Next.js 15
+🧠 Focus on performance, accessibility, and code architecture
+🧑‍🏫 Former Web Dev Instructor at SENAI Bahia
+🏛️ Former IT Coordinator at SEDUC - Valença/BA
+🚀 Evolving into a Full-Stack Developer
+🧩 Proficient in NestJS, Prisma, PostgreSQL, Redis, MongoDB
+🧪 Strong with Type Safety, Testing, and CI/CD pipelines
+🌐 Fluent in English and Portuguese
 
 ##
 
