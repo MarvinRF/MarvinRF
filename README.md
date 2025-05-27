@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=593d88&height=80&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c6ff00&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=593d88&size=25&center=true&vCenter=true&width=1000&lines=Hello+Guys!+My+name+is+Marvin+Rocha!;Front+-+End+Software+Engineer;I+turn+visual+concepts+into+functional+code+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c6ff00&size=25&center=true&vCenter=true&width=1000&lines=Hello+Guys!+My+name+is+Marvin+Rocha!;Front+-+End+Software+Engineer;I+turn+visual+concepts+into+functional+code+:%29)](https://git.io/typing-svg)
 
 - 🎓 B.Sc. in Computing Education (IFBA - Completed)
 - 🎓 Pursuing B.Sc. in Computer Science (Faculdade Única)
@@ -46,13 +46,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-  ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarvinRF/MarvinRF/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarvinRF/MarvinRF/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MarvinRF/MarvinRF/output/github-snake.svg" />
-</picture>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=593d88&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c6ff00&height=80&section=footer"/>
