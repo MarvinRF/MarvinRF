@@ -7,7 +7,7 @@
 
 ##
 
-## 💻 Tech Stack:
+💻 Tech Stack:
 <div style="display: inline_block" align="center"><br>
 
  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -22,7 +22,7 @@
 </div>
 
  ##
- ## 📱 Get in Touch:
+📱 Get in Touch:
 <div align="center"><br> 
   <a href="http://lattes.cnpq.br/4099109035804132" target="_blank"><img src="https://img.shields.io/badge/Lattes-%23809CC9.svg?style=for-the-badge&logoColor=white"></a>
   <a href="https://instagram.com/rochamarvin_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logoColor=white" target="_blank"></a>
