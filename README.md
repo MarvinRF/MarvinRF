@@ -48,7 +48,11 @@
 
   ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarvinRF&bg_color=0d1117&color=593d88&line=4400B8&point=650AFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarvinRF/MarvinRF/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarvinRF/MarvinRF/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MarvinRF/MarvinRF/output/github-snake.svg" />
+</picture>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=593d88&height=80&section=footer"/>
