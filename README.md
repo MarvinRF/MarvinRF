@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c6ff00&size=25&center=true&vCenter=true&width=1000&lines=Hello+Guys!+My+name+is+Marvin+Rocha!;Front+-+End+Software+Engineer;I+turn+visual+concepts+into+functional+code+:%29)](https://git.io/typing-svg)
 
-# 💫 About Me:
+## 💫 About Me:
 🎓 B.Sc. in Computing Education (IFBA - Completed)<br>🎓 Pursuing B.Sc. in Computer Science (Faculdade Única)<br>💻 Front-End Developer at WRM Tecnologia<br>⚙️ Experience with SSR/SSG using Next.js 15<br>🧠 Focus on performance, accessibility, and code architecture<br>🧑‍🏫 Former Web Dev Instructor at SENAI Bahia<br>🏛️ Former IT Coordinator at SEDUC - Valença/BA<br>🚀 Evolving into a Full-Stack Developer<br>🧩 Proficient in NestJS, Prisma, PostgreSQL, Redis, MongoDB<br>🧪 Strong with Type Safety, Testing, and CI/CD pipelines<br>🌐 Fluent in English and Portuguese
 
 ##
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div style="display: inline_block" align="center"><br>
 
  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -22,7 +22,7 @@
 </div>
 
  ##
- 
+ ## 📱 Get in Touch:
 <div align="center"><br> 
   <a href="http://lattes.cnpq.br/4099109035804132" target="_blank"><img src="https://img.shields.io/badge/Lattes-%23809CC9.svg?style=for-the-badge&logoColor=white"></a>
   <a href="https://instagram.com/rochamarvin_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logoColor=white" target="_blank"></a>
