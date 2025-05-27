@@ -2,11 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=593d88&size=25&center=true&vCenter=true&width=1000&lines=Hello+Guys!+My+name+is+Marvin+Rocha!;Front+-+End+Software+Engineer;I+turn+visual+concepts+into+functional+code+:%29)](https://git.io/typing-svg)
 
-- 🎓 Currently pursuing a Bachelor's degree in Computer Science (Faculdade Única) and a Licensure in Computing (IFBA – Valença Campus).
-- 🏛️ Former IT Coordinator at SEDUC in Valença-BA, leading digital transformation initiatives in public education.
-- 👨‍🏫 Former Web Development instructor at SENAI Bahia, teaching hands-on training in modern web stacks.
-- 💻 Currently working as a Front-End Developer at WRM Tecnologia, focused on performance, accessibility, and SSR/SSG with Next.js.
-- 🚀 Progressively transitioning into a Full-Stack Developer, working with NestJS, Prisma, PostgreSQL, MongoDB, and Redis.
+- 🎓 B.Sc. in Computing Education (IFBA - Completed)
+- 🎓 Pursuing B.Sc. in Computer Science (Faculdade Única)
+- 💻 Front-End Developer at WRM Tecnologia
+- ⚙️ Experience with SSR/SSG using Next.js 15
+- 🧠 Focus on performance, accessibility, and code architecture
+- 🧑‍🏫 Former Web Dev Instructor at SENAI Bahia
+- 🏛️ Former IT Coordinator at SEDUC - Valença/BA
+- 🚀 Evolving into a Full-Stack Developer
+- 🧩 Proficient in NestJS, Prisma, PostgreSQL, Redis, MongoDB
+- 🧪 Strong with Type Safety, Testing, and CI/CD pipelines
+- 🌐 Fluent in English and Portuguese
 
 ##
 
@@ -17,10 +23,10 @@
  <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
  <img align="center" alt="Styled-Components" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"/>
- <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
+ <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"/>
  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
- <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+ <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg"/>
  <img align="center" alt="Prisma" height="30" width="40" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png"/>
 </div>
 
