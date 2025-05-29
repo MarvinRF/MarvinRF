@@ -5,7 +5,7 @@
 ## 💫 About Me:
 🎓 Postgraduate Specialization in Software Engineering (in progress) – FUNIP, Brazil<br>
 🎓 B.Sc. in Computer Science (in progress) – FUNIP, Brazil<br>
-🎓 B.Sc. in Computing Education IFBA, Brazil<br>
+🎓 B.Sc. in Computing Education – IFBA, Brazil<br>
 💻 Front-End Developer at WRM Tecnologia<br>
 ⚙️ Experience with SSR/SSG/SWR using Next.js 15<br>
 🧠 Focus on performance, accessibility, and code architecture<br>
