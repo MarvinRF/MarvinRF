@@ -45,8 +45,9 @@
 
 <div align="center">
   <a href="https://github.com/MarvinRF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=midnight-purple"/>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marvinrf&theme=chartreuse-dark&border_radius=18&date_format=j%20M%5B%20Y%5D&card_height=180" alt="GitHub Streak" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=chartreuse-dark&border_radius=18"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=chartreuse-dark&border_radius=18&include_all_commits=true&count_private=true"/>
 </div>
 
 
