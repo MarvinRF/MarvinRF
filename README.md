@@ -16,6 +16,8 @@
 🧪 Strong with Type Safety, Testing, and CI/CD pipelines<br>
 🌐 Fluent in English and Portuguese
 
+
+
 ## 💻 Tech Stack:
 
 🧩 Front:<br/>
