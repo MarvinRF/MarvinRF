@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-- 🔐 Fullstack Developer building scalable, secure, and accessible systems
+- 🔐 Fullstack Developer building scalable, secure, and accessible web applications
 - ⚛️ Front-End: React, Next.js 15, TypeScript, Tailwind CSS, Zustand
 - 🔧 Back-End: NestJS, PostgreSQL, Prisma, Redis, RabbitMQ, RxJS
 - 🔁 Auth: NextAuth.js, JWT, MFA, OAuth2
