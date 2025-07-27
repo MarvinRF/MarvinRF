@@ -1,24 +1,24 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c6ff00&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=c6ff00&size=25&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Marvin+Rocha.;Fullstack+Engineer+%7C+React+%2B+NestJS+%2B+TypeScript+🚀;Secure,+Performant,+and+Accessible+Apps+🔐⚡;Clean+Architecture,+Testing+and+DX+First+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=c6ff00&size=25&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Marvin+Rocha.;Fullstack+Engineer+%7C+React,+NestJS,+TypeScript;Secure,+Performant,+and+Accessible+Apps+;Clean+Architecture,+Testing+and+DX+First)](https://git.io/typing-svg)
 
 
 ## 💫 About Me:
 
-- 🔐 Fullstack Developer building scalable, secure, and accessible web applications
-- ⚛️ Front-End: React, Next.js 15, TypeScript, Tailwind CSS, Zustand
-- 🔧 Back-End: NestJS, PostgreSQL, Prisma, Redis, RabbitMQ, RxJS
-- 🔁 Auth: NextAuth.js, JWT, MFA, OAuth2
-- 📈 Obsessed with performance (LCP↓62%, TTFB↓72%) and architecture
-- 🧪 Testing: Jest, Cypress, React Testing Library, Supertest
-- 🧰 DevOps: Docker, GitHub Actions, Vercel, Monorepo CI/CD
-- 📚 Postgrad in Software Engineering | Fluent in English 🇧🇷-🇺🇸
-- 🎯 Focus: Clean Code, Secure APIs, Design Systems, DDD
+- 🔐 Fullstack Engineer focused on scalable and secure architectures
+- ⚛️ Front-End: SSR/SSG apps with Next.js 15, Zustand and accessibility (WCAG 2.1)
+- 🔧 Back-End: Modular APIs with NestJS, PostgreSQL, Redis, RabbitMQ, RxJS
+- 🔁 Auth systems with NextAuth.js, JWT, MFA and OAuth2
+- 📈 Performance-driven (LCP ↓62%, TTFB ↓72%) with optimized CI/CD pipelines
+- 🧪 Testing-first mindset with Jest, Cypress and integration pipelines
+- 🧰 DevOps experience with Docker, GitHub Actions and monorepo automation
+- 🎯 Principles: Clean Code, Design Systems, DDD and Developer Experience
+
 
 ## 🎓 Education
-- M.Sc. in Software Engineering (Lato Sensu) – Faculdade Única (Expected Jun 2026)
-- B.Sc. in Computer Science – Faculdade Única (Expected Jan 2026)
-- B.Ed. in Computing (Licenciatura) – IFBA
+- M.Sc. in Software Engineering – Faculdade Única (2024–2026)
+- B.Sc. in Computer Science – Faculdade Única (2022–2026)
+- B.Ed. in Computing – Federal Institute of Bahia (IFBA)
 
 ## 💻 Tech Stack:
 
@@ -69,5 +69,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=chartreuse-dark&border_radius=18&include_all_commits=true&count_private=true"/>
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c6ff00&height=80&section=footer"/>
