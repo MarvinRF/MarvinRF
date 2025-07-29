@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=c6ff00&size=25&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Marvin+Rocha.;Fullstack+Engineer+%7C+React,+NestJS,+TypeScript;Secure,+Performant,+and+Accessible+Apps+;Clean+Architecture,+Testing+and+DX+First)](https://git.io/typing-svg)
 
 
-## 💫 About Me:
+## About Me:
 
 - 🔐 Fullstack Engineer focused on scalable and secure architectures
 - ⚛️ Front-End: SSR/SSG apps with Next.js 15, Zustand and accessibility (WCAG 2.1)
@@ -15,14 +15,14 @@
 - 🎯 Principles: Clean Code, Design Systems, DDD and Developer Experience
 
 
-## 🎓 Education
+##  Education
 - M.Sc. in Software Engineering – Faculdade Única (2024–2026)
 - B.Sc. in Computer Science – Faculdade Única (2022–2026)
 - B.Ed. in Computing – Federal Institute of Bahia (IFBA)
 
-## 💻 Tech Stack:
+##  Tech Stack:
 
-### 🧩 Front:
+###  Front:
 <div align="center"> 
 <img style=" align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img style=" align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -32,7 +32,7 @@
   <img style=" align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"" />
 </div>
 
-### 🧠 Back-End
+###  Back-End
 <p align="center"> 
   <img style=" align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
   <img style=" align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
@@ -43,7 +43,7 @@
   <img style=" align="center" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </p>
 
-### 🧪 Tests & Tooling
+###  Tests & Tooling
 <p align="center">
   <img style=" align="center" alt="jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
   <img style=" align="center" alt="cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg"/>
@@ -51,7 +51,7 @@
   <img style=" align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
- ## 📫 Let's Connect
+ ##  Let's Connect
 
 <div align="center"><br/>
   <a href="https://www.linkedin.com/in/marvin-rocha-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
