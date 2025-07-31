@@ -16,6 +16,7 @@
 
 
 ##  Education
+- M.Sc. in Computer Science – UFBA (2025–2027)
 - M.Sc. in Software Engineering – Faculdade Única (2024–2026)
 - B.Sc. in Computer Science – Faculdade Única (2022–2026)
 - B.Ed. in Computing – Federal Institute of Bahia (IFBA)
