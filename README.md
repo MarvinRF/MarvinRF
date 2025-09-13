@@ -17,9 +17,9 @@
 
 ##  Education
 - M.Sc. in Computer Science – UFBA (2025–2027)
-- Spec. in Software Engineering – FUNIP (2024–2026)
+- Spec. in Software Engineering – FUNIP (2025)
 - B.Sc. in Computer Science – FUNIP (2022–2026)
-- B.Ed. in Computing – Federal Institute of Bahia (IFBA)
+- B.Ed. in Computing – Federal Institute of Bahia IFBA (2025)
 
 ##  Tech Stack:
 
