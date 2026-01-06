@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c6ff00&height=80&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=c6ff00&size=25&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Marvin+Rocha.;Fullstack+Engineer+%7C+React,+NestJS,+TypeScript;Secure,+Performant,+and+Accessible+Apps+;Clean+Architecture,+Testing+and+DX+First)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E95420&size=25&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Marvin+Rocha.;Fullstack+Engineer+%7C+React,+NestJS,+TypeScript;Secure,+Performant,+and+Accessible+Apps+;Clean+Architecture,+Testing+and+DX+First)](https://git.io/typing-svg)
 
 
 ## About Me:
@@ -65,8 +65,8 @@
 
 <div align="center">
   <a href="https://github.com/MarvinRF">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marvinrf&theme=chartreuse-dark&border_radius=18&date_format=j%20M%5B%20Y%5D&card_height=180" alt="GitHub Streak" /></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=chartreuse-dark&border_radius=18"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=chartreuse-dark&border_radius=18&include_all_commits=true&count_private=true"/>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marvinrf&theme=dark&border_radius=18&date_format=j%20M%5B%20Y%5D&card_height=180" alt="GitHub Streak" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=dark&border_radius=18"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=dark&border_radius=18&include_all_commits=true&count_private=true"/>
 </div>
 
