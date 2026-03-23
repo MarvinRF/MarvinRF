@@ -68,10 +68,12 @@ Researching **semantic transfer across disjoint domains** @ UFBA · Advisor: Pro
  
 </div>
  
- ##  Let's Connect
-<div align="start"><br/>
-  <a href="https://www.linkedin.com/in/marvin-rocha-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:marvinvca@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://portifolio-ten-livid.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="http://lattes.cnpq.br/4099109035804132" target="_blank"><img src="https://img.shields.io/badge/Lattes-809CC9?style=for-the-badge&logoColor=white"></a>
+## Let's Connect
+
+<div align="start">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-rocha-developer)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marvinvca@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-ten-livid.vercel.app)
+[![Lattes](https://img.shields.io/badge/Lattes-809CC9?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/4099109035804132)
 </div>
