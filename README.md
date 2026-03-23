@@ -1,72 +1,77 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E95420&height=80&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E95420&size=25&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Marvin+Rocha.;Fullstack+Engineer+%7C+React,+NestJS,+TypeScript;Secure,+Performant,+and+Accessible+Apps+;Clean+Architecture,+Testing+and+DX+First)](https://git.io/typing-svg)
-
-
-## About Me:
-
-- 🔐 Fullstack Engineer focused on scalable and secure architectures
-- ⚛️ Front-End: SSR/SSG apps with Next.js 15, Zustand and accessibility (WCAG 2.1)
-- 🔧 Back-End: Modular APIs with NestJS, PostgreSQL, Redis, RabbitMQ, RxJS
-- 🔁 Auth systems with NextAuth.js, JWT, MFA and OAuth2
-- 📈 Performance-driven (LCP ↓62%, TTFB ↓72%) with optimized CI/CD pipelines
-- 🧪 Testing-first mindset with Jest, Cypress and integration pipelines
-- 🧰 DevOps experience with Docker, GitHub Actions and monorepo automation
-- 🎯 Principles: Clean Code, Design Systems, DDD and Developer Experience
+## About
+ 
+Full Stack Engineer specializing in mission-critical systems, from domain modeling to production. I build high-performance platforms for fintechs and digital banks using **NestJS + RabbitMQ/Kafka**, **Next.js 15**, and **React Native**, applying DDD and Clean Architecture to ensure every service is independent, testable, and resilient.
+ 
+MSc candidate at **UFBA** researching zero-shot cross-domain recommendation systems, specifically, semantic preference transfer between structurally heterogeneous domains (books → music) using LLM-derived representations, without interaction data, knowledge graphs, or domain-specific supervision.
+ 
+**Results that matter**
+ 
+- Banking modules (Pix, TED, Onboarding) delivered **3 weeks ahead of schedule**
+- TTFB reduced from 1.8s → 0.5s **(-72%)** · Bundle size from 1.2 MB → 400 KB **(-67%)**
+- Support tickets reduced **40%** on an EdTech platform used by 5,000+ educators
+- **100% validation rate** across 200+ sessions as Lead Moderator at Apple / TELUS International
 
 
 ##  Education
 - M.Sc. in Computer Science – UFBA (2027 Expected)
-- Spec. in Software Engineering – UniÚnica (Dec 2025)
+- Spec. in Software Engineering – UniÚnica (2026)
 - B.Sc. in Computer Science – UniÚnica (June 2027 Expected)
-- B.Ed. in Computing – Federal Institute of Bahia IFBA (Mar 2025)
+- B.Ed. in Computing – Federal Institute of Bahia IFBA (2025)
 
-##  Tech Stack:
+##
+ 
+**Currently** building a native-AI Business Analytics platform at [TARGIT Brasil](https://targitbrasil.com/), full ownership from data modeling to visualization layer.
+Researching **semantic transfer across disjoint domains** @ UFBA · Advisor: Prof. Dr. Frederico Araújo Durão.
+ 
+ 
 
-###  Front:
-<div align="center"> 
-<img style=" align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img style=" align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img style=" align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img style=" align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img style=" align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img style=" align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"" />
+## Tech Stack
+ 
+### Front-end
+<div align="start">
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+ 
 </div>
-
-###  Back-End
-<p align="center"> 
-  <img style=" align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
-  <img style=" align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
-  <img style=" align="center" alt="TypeOrm" height="30" width="40" src="https://logo.svgcdn.com/l/typeorm.svg"/>
-  <img style=" align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"/>
-  <img style=" align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img style=" align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-  <img style=" align="center" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-</p>
-
-###  Tests & Tooling
-<p align="center">
-  <img style=" align="center" alt="jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-  <img style=" align="center" alt="cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg"/>
-  <img style=" align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img style=" align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</p>
-
+ 
+### Back-end
+<div align="start">
+ 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+ 
+</div>
+ 
+### Tests & Tooling
+<div align="start">
+ 
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+ 
+</div>
+ 
  ##  Let's Connect
-
-<div align="center"><br/>
-  <a href="https://www.linkedin.com/in/marvin-rocha-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:marvinvca@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://portifolio-ten-livid.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23111111?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="http://lattes.cnpq.br/4099109035804132" target="_blank"><img src="https://img.shields.io/badge/Lattes-%23809CC9.svg?style=for-the-badge&logoColor=white"></a>
+<div align="start"><br/>
+  <a href="https://www.linkedin.com/in/marvin-rocha-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:marvinvca@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://portifolio-ten-livid.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="http://lattes.cnpq.br/4099109035804132" target="_blank"><img src="https://img.shields.io/badge/Lattes-809CC9?style=for-the-badge&logoColor=white"></a>
 </div>
-
- ##
-
-<div align="center">
-  <a href="https://github.com/MarvinRF">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marvinrf&theme=dark&border_radius=18&date_format=j%20M%5B%20Y%5D&card_height=180" alt="GitHub Streak" /></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinRF&layout=compact&langs_count=7&theme=dark&border_radius=18"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarvinRF&show_icons=true&theme=dark&border_radius=18&include_all_commits=true&count_private=true"/>
-</div>
-
