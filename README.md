@@ -2,13 +2,14 @@
  
 Full Stack Engineer specializing in mission-critical systems, from domain modeling to production. I build high-performance platforms for fintechs and digital banks using **NestJS + RabbitMQ/Kafka**, **Next.js 16**, and **Angular**, applying DDD and Clean Architecture to ensure every service is independent, testable, and resilient.
 
-I also focus on **web accessibility and inclusive design**, applying **WCAG 2.1/2.2 standards**, ARIA practices, and semantic HTML to deliver compliant, user-centered experiences.
+Additionally, I bring a strong focus on **web accessibility**, implementing **WCAG 2.1/2.2 AA standards**, **ARIA**, keyboard navigation, and semantic markup, contributing to inclusive, compliant, and scalable web applications.
  
 MSc candidate at **UFBA** researching zero-shot cross-domain recommendation systems, specifically, semantic preference transfer between structurally heterogeneous domains (books → music) using LLM-derived representations, without interaction data, knowledge graphs, or domain-specific supervision.
  
 **Results that matter**
  
-- Banking modules (Pix, TED, Onboarding) delivered **3 weeks ahead of schedule**
+- Banking modules (Pix, TED, Onboarding) delivered **3 weeks ahead of schedule**"
+- Improved accessibility compliance (WCAG) across key flows, enhancing usability and reducing user friction
 - TTFB reduced from 1.8s → 0.5s **(-72%)** · Bundle size from 1.2 MB → 400 KB **(-67%)**
 - Support tickets reduced **40%** on an EdTech platform used by 5,000+ educators
 - **100% validation rate** across 200+ sessions as Lead Moderator at Apple / TELUS International
