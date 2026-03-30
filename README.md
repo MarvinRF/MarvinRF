@@ -1,6 +1,8 @@
 ## About
  
 Full Stack Engineer specializing in mission-critical systems, from domain modeling to production. I build high-performance platforms for fintechs and digital banks using **NestJS + RabbitMQ/Kafka**, **Next.js 16**, and **Angular**, applying DDD and Clean Architecture to ensure every service is independent, testable, and resilient.
+
+I also focus on **web accessibility and inclusive design**, applying **WCAG 2.1/2.2 standards**, ARIA practices, and semantic HTML to deliver compliant, user-centered experiences.
  
 MSc candidate at **UFBA** researching zero-shot cross-domain recommendation systems, specifically, semantic preference transfer between structurally heterogeneous domains (books → music) using LLM-derived representations, without interaction data, knowledge graphs, or domain-specific supervision.
  
