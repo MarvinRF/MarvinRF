@@ -1,6 +1,6 @@
 ## About
  
-Full Stack Engineer specializing in mission-critical systems, from domain modeling to production. I build high-performance platforms for fintechs and digital banks using **NestJS + RabbitMQ/Kafka**, **Next.js 16**, and **Angular**, applying DDD and Clean Architecture to ensure every service is independent, testable, and resilient.
+Sebior Full Stack Engineer specializing in mission-critical systems, from domain modeling to production. I build high-performance platforms for fintechs and digital banks using **NestJS + RabbitMQ/Kafka**, **Next.js 16**, and **Angular**, applying DDD and Clean Architecture to ensure every service is independent, testable, and resilient.
 
 Additionally, I bring a strong focus on **web accessibility**, implementing **WCAG 2.1/2.2 AA standards**, **ARIA**, keyboard navigation, and semantic markup, contributing to inclusive, compliant, and scalable web applications.
  
@@ -23,7 +23,7 @@ MSc candidate at **UFBA** researching zero-shot cross-domain recommendation syst
 
 ##
  
-**Currently** building a native-AI Business Analytics platform at [TARGIT Brasil](https://targitbrasil.com/), full ownership from data modeling to visualization layer.
+**Currently** Senior Fullstack Martech Engineer at Saipos, leading the development of scalable marketing technology solutions with full ownership from data modeling to the visualization layer.
 Researching **semantic transfer across disjoint domains** @ UFBA · Advisor: Prof. Dr. Frederico Araújo Durão.
  
  
