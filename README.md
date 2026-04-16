@@ -23,7 +23,7 @@ MSc candidate at **UFBA** researching zero-shot cross-domain recommendation syst
 
 ##
  
-**Currently** Senior Fullstack Martech Engineer at Saipos, leading the development of scalable marketing technology solutions with full ownership from data modeling to the visualization layer.
+**Currently** Senior Fullstack Martech Engineer at Saipos, leading the development of scalable marketing technology solutions with full ownership from data modeling to the visualization layer. <br /> <br />
 Researching **semantic transfer across disjoint domains** @ UFBA · Advisor: Prof. Dr. Frederico Araújo Durão.
  
  
