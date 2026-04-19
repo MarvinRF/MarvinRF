@@ -1,10 +1,8 @@
 ## About
  
-Sebior Full Stack Engineer specializing in mission-critical systems, from domain modeling to production. I build high-performance platforms for fintechs and digital banks using **NestJS + RabbitMQ/Kafka**, **Next.js 16**, and **Angular**, applying DDD and Clean Architecture to ensure every service is independent, testable, and resilient.
+Senior Full Stack Engineer specializing in mission-critical systems, from domain modeling to production. I build high-performance platforms for fintechs and digital banks using **NestJS + RabbitMQ/Kafka**, **Next.js 15**, and **Astro**, applying DDD and Clean Architecture to ensure every service is independent, testable, and resilient.
 
 Additionally, I bring a strong focus on **web accessibility**, implementing **WCAG 2.1/2.2 AA standards**, **ARIA**, keyboard navigation, and semantic markup, contributing to inclusive, compliant, and scalable web applications.
- 
-MSc candidate at **UFBA** researching zero-shot cross-domain recommendation systems, specifically, semantic preference transfer between structurally heterogeneous domains (books → music) using LLM-derived representations, without interaction data, knowledge graphs, or domain-specific supervision.
  
 **Results that matter**
  
@@ -21,12 +19,15 @@ MSc candidate at **UFBA** researching zero-shot cross-domain recommendation syst
 - B.Sc. in Computer Science – UniÚnica (June 2027 Expected)
 - B.Ed. in Computing – Federal Institute of Bahia IFBA (2025)
 
-##
+## Research & Innovation
+**MSc Candidate in Computer Science @ UFBA**.
+My research focuses on **Zero-Shot Cross-Domain Recommendation (CDR)**, specifically:
+* Semantic preference transfer between structurally heterogeneous domains (Books → Music).
+* Leveraging **LLMs** as implicit knowledge graphs without interaction data or domain-specific supervision.
+* **Advisor:** Prof. Dr. Frederico Araújo Durão.
  
-**Currently** Senior Fullstack Martech Engineer at Saipos, leading the development of scalable marketing technology solutions with full ownership from data modeling to the visualization layer. <br /> <br />
-Researching **semantic transfer across disjoint domains** @ UFBA · Advisor: Prof. Dr. Frederico Araújo Durão.
- 
- 
+**Currently** Senior Fullstack Martech Engineer at Saipos, leading the development of scalable marketing technology solutions with full ownership from data modeling to the visualization layer.
+
 
 ## Tech Stack
  
