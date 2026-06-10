@@ -14,10 +14,10 @@ Additionally, I bring a strong focus on **web accessibility**, implementing **WC
 
 
 ##  Education
-- M.Sc. in Computer Science – UFBA (2027 Expected)
-- Spec. in Software Engineering – UniÚnica (2026)
-- B.Sc. in Computer Science – UniÚnica (June 2027 Expected)
-- B.Ed. in Computing – Federal Institute of Bahia IFBA (2025)
+- M.Sc. in Computer Science – UFBA Federal University of Bahia
+- Spec. in Software Engineering – UniÚnica
+- B.Sc. in Computer Science – UniÚnica
+- B.Ed. in Computing – Federal Institute of Cience and Technology of Bahia IFBA
 
 ## Research & Innovation
 **MSc Candidate in Computer Science @ UFBA**.
