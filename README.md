@@ -25,8 +25,6 @@ My research focuses on **Zero-Shot Cross-Domain Recommendation (CDR)**, specific
 * Semantic preference transfer between structurally heterogeneous domains (Books → Music).
 * Leveraging **LLMs** as implicit knowledge graphs without interaction data or domain-specific supervision.
 * **Advisor:** Prof. Dr. Frederico Araújo Durão.
- 
-**Currently** Senior Fullstack Martech Engineer at Saipos, leading the development of scalable marketing technology solutions with full ownership from data modeling to the visualization layer.
 
 
 ## Tech Stack
