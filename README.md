@@ -1,31 +1,23 @@
 ## About
  
-Senior Full Stack Engineer specializing in mission-critical systems, from domain modeling to production. I build high-performance platforms for fintechs and digital banks using **NestJS + RabbitMQ/Kafka**, **Next.js 15**, and **Astro**, applying DDD and Clean Architecture to ensure every service is independent, testable, and resilient.
-
-Additionally, I bring a strong focus on **web accessibility**, implementing **WCAG 2.1/2.2 AA standards**, **ARIA**, keyboard navigation, and semantic markup, contributing to inclusive, compliant, and scalable web applications.
+**Applied AI Engineer** · LLM agents, RAG, evals & MCP · Fullstack TypeScript & Python
+ 
+AI and fullstack engineer with 4+ years shipping production systems, now focused on LLM products that are safe to put in front of real users. I design systems where **the model interprets and deterministic code decides**: every LLM output is validated, tested and auditable. Applied in regulated healthcare and fintech.
  
 **Results that matter**
  
-- Banking modules (Pix, TED, Onboarding) delivered **3 weeks ahead of schedule**"
-- Improved accessibility compliance (WCAG) across key flows, enhancing usability and reducing user friction
-- TTFB reduced from 1.8s → 0.5s **(-72%)** · Bundle size from 1.2 MB → 400 KB **(-67%)**
-- Support tickets reduced **40%** on an EdTech platform used by 5,000+ educators
-- **100% validation rate** across 200+ sessions as Lead Moderator at Apple / TELUS International
-
-
-##  Education
-- M.Sc. in Computer Science – UFBA Federal University of Bahia
-- Spec. in Software Engineering – UniÚnica
-- B.Sc. in Computer Science – UniÚnica
-- B.Ed. in Computing – Federal Institute of Cience and Technology of Bahia IFBA
-
-## Research & Innovation
-**MSc Candidate in Computer Science @ UFBA**.
-My research focuses on **Zero-Shot Cross-Domain Recommendation (CDR)**, specifically:
-* Semantic preference transfer between structurally heterogeneous domains (Books → Music).
-* Leveraging **LLMs** as implicit knowledge graphs without interaction data or domain-specific supervision.
-* **Advisor:** Prof. Dr. Frederico Araújo Durão.
-
+- Production **LLM agent on WhatsApp** (healthcare): **95% field-level accuracy**, every extracted field revalidated before persistence
+- Safety-critical refusals gated by an **eval harness of 120 adversarial scenarios**; deterministic disambiguation **cut LLM calls by 70%**
+- **RAG pipeline** in Python grounding enterprise agents in a centralized knowledge base, under audit and compliance controls
+- Creator of **[nestjs-docfy](https://www.npmjs.com/package/nestjs-docfy)**, an open-source API toolkit with an MCP server for coding agents: **~10k npm downloads** in four months
+- Banking modules (Pix, TED, Onboarding) delivered **3 weeks ahead of schedule** · TTFB **-72%** · bundle **-67%**
+- **100% validation** across 200+ sessions, promoted to Lead on an AI and search quality evaluation program (TELUS International)
+## Research
+ 
+**M.Sc. candidate in Computer Science @ UFBA**, advised by Prof. Dr. Frederico Araújo Durão.
+ 
+- **Zero-shot cross-domain recommendation:** how geometric corrections of frozen text encoders transfer preferences across domains (Books → Music, Movies, Games) · [code](https://github.com/MarvinRF/source-domain-statistics)
+- **PULSAR:** multi-agent system with BDI agents and a RAG explainer for early detection of clinical deterioration · [code](https://github.com/MarvinRF/Pulsar_BRACIS)
 
 ## Tech Stack
  
